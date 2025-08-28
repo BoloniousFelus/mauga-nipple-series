@@ -118,7 +118,7 @@ msgstr "유당지옥"
 
 #. file strings.opy, line 60, rule "strings"
 msgid "mega milk"
-msgstr ""
+msgstr "빅-우유통"
 
 #. file strings.opy, line 66, rule "strings"
 msgid "next objective in 3 seconds!"
@@ -178,7 +178,7 @@ msgstr "무언가가 잘못되었다, 페이즈 스킵 중..."
 
 #. file strings.opy, line 85, rule "strings"
 msgid "timeout exceeded, skipping phase in case of softlock."
-msgstr ""
+msgstr "타임아웃 시간 초과, 알 수 없는 오류에 대비해 페이즈를 스킵합니다."
 
 #. file strings.opy, line 86, rule "strings"
 msgid "hardcore mode is on"
@@ -186,7 +186,7 @@ msgstr "하드코어 모드 활성화"
 
 #. file strings.opy, line 87, rule "strings"
 msgid "ultra hardcore mode is on"
-msgstr ""
+msgstr "울트라 하드코어 모드 활성화"
 
 #. file strings.opy, line 88, rule "strings"
 msgid "no respawning until round ends"
@@ -194,7 +194,7 @@ msgstr "라운드가 끝날 때까지 리스폰 불가"
 
 #. file strings.opy, line 89, rule "strings"
 msgid "no respawning ever!"
-msgstr ""
+msgstr "리스폰 불가!"
 
 #. file strings.opy, line 91, rule "strings"
 msgid "team deaths"
